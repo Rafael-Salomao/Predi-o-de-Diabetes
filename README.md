@@ -32,10 +32,6 @@ O desenvolvimento do modelo foi feito usando o pandas. Foi aplicada uma seleçã
 
 A avaliação do modelo será realizada utilizando métricas apropriadas para problemas de classificação binária, como precisão, recall, F1-score e a área sob a curva ROC (AUC-ROC). O objetivo é desenvolver um modelo que alcance alto desempenho na previsão de casos positivos e negativos de diabetes, proporcionando uma base sólida para decisões médicas.
 
-## Pré-requisitos
-
-As bibliotecas necessárias para este projeto estão no arquivo "requirements.txt".
-
 ## Estrutura do Projeto
 
 ### 1 – Data prep. 
