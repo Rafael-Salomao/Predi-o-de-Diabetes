@@ -38,7 +38,7 @@ As bibliotecas necessárias para este projeto estão no arquivo "requirements.tx
 
 ## Estrutura do Projeto
 
-### 1 – Data prep.
+### 1 – Data prep. [Acesse o código de etapa aqui](01 Data Prep/Predição_de_Diabetes_01_DataPrep.ipynb)
 
 - Introdução
 - Entendimento do Problema
