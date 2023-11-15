@@ -1,6 +1,6 @@
 # Previsão do Diagnóstico de Diabetes.
 
-![Alt Text](URL da imagem)
+![Imagem Diabetes](imagem.jpg)
 
 ## Descrição do Projeto
 
