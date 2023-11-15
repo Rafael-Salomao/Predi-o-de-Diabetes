@@ -1,4 +1,4 @@
-# Previsão do diagnóstico de diabetes em pacientes com base em medidas específicas.
+# Previsão do Diagnóstico de Diabetes.
 
 ## Descrição do Projeto
 
