@@ -88,7 +88,6 @@ As bibliotecas necessárias para este projeto estão no arquivo "requirements.tx
 
 #### Resultados:
 
-**Modelo Campeão Escolhido:**
 O modelo escolhido é o Random Forest, destaca-se pela ordenação eficaz das taxas de score, proporcionando uma identificação eficiente de pacientes propensos ou menos propensos a desenvolver diabetes. Seu bom desempenho na métrica AUC reforça a confiabilidade na capacidade do modelo de distinguir entre casos positivos e negativos. Além disso, a consistência nas métricas de KS, Gini e AUC para as bases de treinamento e teste sugere que o modelo não tenha overfitting, garantindo robustez e generalização para novos dados. Essa escolha é respaldada por sua eficácia e confiabilidade na predição de casos de diabetes.
 
 #### Discussão
