@@ -1,7 +1,7 @@
 # Previsão do Diagnóstico de Diabetes.
 
 <p align="center">
-  <img width="650" height="350" src="imagem.jpg">
+  <img width="500" height="350" src="imagem.jpg">
 </p>
 
 ## Descrição do Projeto
