@@ -1,5 +1,7 @@
 # Previsão do Diagnóstico de Diabetes.
 
+![Alt Text](URL da imagem)
+
 ## Descrição do Projeto
 
 O objetivo deste projeto é desenvolver um modelo de aprendizado de máquina capaz de prever diagnosticamente se um paciente possui ou não diabetes. A base de dados utilizada é originária do National Institute of Diabetes and Digestive and Kidney Diseases e foi fornecida pelo Kaggle. A seleção dessas instâncias envolveu restrições específicas, sendo todas as pacientes mulheres com pelo menos 21 anos e de herança Pima Indian.
