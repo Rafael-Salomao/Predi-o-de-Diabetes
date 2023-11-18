@@ -92,7 +92,9 @@ A avaliação do modelo será realizada utilizando métricas apropriadas para pr
 
 #### Resultados:
 
-O modelo escolhido é o Random Forest, destaca-se pela ordenação eficaz das taxas de score, proporcionando uma identificação eficiente de pacientes propensos ou menos propensos a desenvolver diabetes. Seu bom desempenho na métrica AUC reforça a confiabilidade na capacidade do modelo de distinguir entre casos positivos e negativos. Além disso, a consistência nas métricas de KS, Gini e AUC para as bases de treinamento e teste sugere que o modelo não tenha overfitting, garantindo robustez e generalização para novos dados. Essa escolha é respaldada por sua eficácia e confiabilidade na predição de casos de diabetes.
+O modelo escolhido é o Random Forest, destaca-se pela ordenação eficaz das taxas de score, proporcionando uma identificação eficiente de pacientes propensos ou menos propensos a desenvolver diabetes. Seu bom desempenho na métrica AUC reforça a confiabilidade na capacidade do modelo de distinguir entre casos positivos e negativos. 
+
+Além disso, a consistência nas métricas de KS, Gini e AUC para as bases de treinamento e teste sugere que o modelo não tenha overfitting, garantindo robustez e generalização para novos dados. Essa escolha é respaldada por sua eficácia e confiabilidade na predição de casos de diabetes.
 
 <p align="center">
   <img src="output-avaliacao-rf.png">
@@ -100,7 +102,11 @@ O modelo escolhido é o Random Forest, destaca-se pela ordenação eficaz das ta
 
 #### Discussão
 
-Ao finalizar o projeto, o modelo desenvolvido revela a capacidade de prever a probabilidade de um indivíduo desenvolver diabetes. Essa informação permite a implementação de medidas preventivas antecipadas para mitigar os impactos da doença ou adiar sua manifestação. O modelo demonstra uma sólida capacidade de predição, sendo eficaz na identificação de indivíduos mais ou menos propensos à condição. Nesse sentido, é recomendado que aqueles com pontuações intermediárias busquem uma avaliação mais detalhada por profissionais de saúde. Assim, o modelo serve como uma ferramenta valiosa para auxiliar na tomada de decisão desses profissionais.
+Ao finalizar o projeto, o modelo desenvolvido revela a capacidade de prever a probabilidade de um indivíduo desenvolver diabetes. 
+
+Essa informação permite a implementação de medidas preventivas antecipadas para mitigar os impactos da doença ou adiar sua manifestação. O modelo demonstra uma sólida capacidade de predição, sendo eficaz na identificação de indivíduos mais ou menos propensos à condição. 
+
+Nesse sentido, é recomendado que aqueles com pontuações intermediárias busquem uma avaliação mais detalhada por profissionais de saúde. Assim, o modelo serve como uma ferramenta valiosa para auxiliar na tomada de decisão desses profissionais.
 
 ### Próximos Passos
 
@@ -108,4 +114,6 @@ O desenvolvimento subsequente do projeto envolverá a implementação em produç
 
 ## Contato
 
-Quer falar comigo? Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/) ou se preferir, escreva um e-mail para rafael.salomaod96@gmail.com. Também estou presente no [Medium](https://medium.com/@rafael.salomaod), compartilhando aprendizados ao longo dos meus estudos em Big Data & Analytics.
+Quer falar comigo? Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/) ou se preferir, escreva um e-mail para rafael.salomaod96@gmail.com. 
+
+Também estou presente no [Medium](https://medium.com/@rafael.salomaod), compartilhando aprendizados ao longo dos meus estudos em Ciência de Dados.
