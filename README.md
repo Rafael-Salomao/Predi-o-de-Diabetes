@@ -39,7 +39,7 @@ A avaliação do modelo será realizada utilizando métricas apropriadas para pr
 ## Estrutura do Projeto
 
 ### 1 – Data prep. 
-[Acesse o código de etapa aqui](https://github.com/Rafael-Salomao/Predicao-de-Diabetes/blob/fec5f2b4528976be8d7eccaafc687b1c49e47651/01%20Data%20Prep/Predi%C3%A7%C3%A3o_de_Diabetes_01_DataPrep.ipynb)
+[Acesse o código desta etapa aqui](https://github.com/Rafael-Salomao/Predicao-de-Diabetes/blob/fec5f2b4528976be8d7eccaafc687b1c49e47651/01%20Data%20Prep/Predi%C3%A7%C3%A3o_de_Diabetes_01_DataPrep.ipynb)
 
 - Introdução
 - Entendimento do Problema
@@ -54,14 +54,14 @@ A avaliação do modelo será realizada utilizando métricas apropriadas para pr
 - Salvando tabelas de treino e teste pós preparação dos dados
 
 ### 2 - Feature Selection 
-[Acesse o código de etapa aqui](https://github.com/Rafael-Salomao/Predicao-de-Diabetes/blob/c0827ea4ee5b8ddbdb086b3844553f4424be34b0/02%20Feature%20Selection/Predi%C3%A7%C3%A3o_de_Diabetes_02_FeatureSelection.ipynb)
+[Acesse o código desta etapa aqui](https://github.com/Rafael-Salomao/Predicao-de-Diabetes/blob/c0827ea4ee5b8ddbdb086b3844553f4424be34b0/02%20Feature%20Selection/Predi%C3%A7%C3%A3o_de_Diabetes_02_FeatureSelection.ipynb)
 
 - Lendo dados pós processo de data prep
 - Obter importância das variáveis
 - Salvando abt para treinamento dos modelos
 
 ### 3 - Treinamento e Avaliação dos Modelos
-[Acesse o código de etapa aqui](https://github.com/Rafael-Salomao/Predicao-de-Diabetes/blob/c0827ea4ee5b8ddbdb086b3844553f4424be34b0/03%20Modelos/Predi%C3%A7%C3%A3o_de_Diabetes_03_Modelos.ipynb)
+[Acesse o código desta etapa aqui](https://github.com/Rafael-Salomao/Predicao-de-Diabetes/blob/c0827ea4ee5b8ddbdb086b3844553f4424be34b0/03%20Modelos/Predi%C3%A7%C3%A3o_de_Diabetes_03_Modelos.ipynb)
 
 - Importar bibliotecas
 - Funções que serão utilizadas
@@ -77,7 +77,7 @@ A avaliação do modelo será realizada utilizando métricas apropriadas para pr
 - Salvando artefatos dos modelos
 
 ### 4 - Código de Escoragem
-[Acesse o código de etapa aqui](https://github.com/Rafael-Salomao/Predicao-de-Diabetes/blob/c0827ea4ee5b8ddbdb086b3844553f4424be34b0/04%20Escoragem/Predi%C3%A7%C3%A3o_de_Diabetes_04_Escoragem.ipynb)
+[Acesse o código desta etapa aqui](https://github.com/Rafael-Salomao/Predicao-de-Diabetes/blob/c0827ea4ee5b8ddbdb086b3844553f4424be34b0/04%20Escoragem/Predi%C3%A7%C3%A3o_de_Diabetes_04_Escoragem.ipynb)
 
 - Leitura dos dados a serem escorados
 - Separar 70% dos dados para treino e 30% para validação
